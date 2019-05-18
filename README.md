@@ -1,1 +1,1 @@
-Udacity C++ Nanodegree to refresh and to keep up-to-date on my C++ skills.
+Keeping my C++ skills sharp with a Udacity C++ Nanodegree
