@@ -3,8 +3,8 @@
 
 using namespace std;
 
-void PrintBoard(const vector<vector<int>>& v) {
-    for (auto b : v) {
+void PrintBoard(const vector<vector<int>>&v) {
+    for (auto const &b : v) {
         for (int i : b) {
             cout << i;
         }
